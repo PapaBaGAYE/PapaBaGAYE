@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PapaBaGAYE
-- 👀 I’m interested in Data Science and web deelopment
+- 👀 I’m interested in Data Science and web development
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Data Science project
 <!--- - 📫 How to reach me ... --->
