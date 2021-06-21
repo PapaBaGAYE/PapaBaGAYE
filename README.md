@@ -1,3 +1,4 @@
+# Papa Ba GAYE 
 - 👋 Hi, I’m @PapaBaGAYE
 - 👀 I’m interested in Data Science and web development
 - 🌱 I’m currently learning Artificial Intelligence 
@@ -8,9 +9,6 @@
 PapaBaGAYE/PapaBaGAYE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# TP_TD_MSDA
-
-Je mettrai régulièrement ici tous mes TP et TD. <br>
 
 <a href="https://twitter.com/BraBeatz">
   <img align="left" alt="Papa Ba GAYE | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
