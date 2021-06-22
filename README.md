@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham" alt="PapaBaGaye" />
+<p ali<img src="https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham" alt="PapaBaGaye" />
