@@ -19,13 +19,15 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PapaBaGaye.PapaBaGaye)
 
+<!--
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<!--
+
 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham" alt="PapaBaGaye" />
