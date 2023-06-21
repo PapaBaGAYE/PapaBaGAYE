@@ -14,8 +14,12 @@ Je suis ouvert à la collaboration sur des projets de science des données et à
 ### 📫 Comment me contacter
 Vous pouvez me contacter sur les plateformes suivantes :
 
-[![Twitter](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)](https://twitter.com/BraBeatz)
-[![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/papa-ba-gaye-8970651a6/)
+<a href="https://twitter.com/BraBeatz">
+  <img align="left" alt="Papa Ba GAYE | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/papa-ba-gaye-8970651a6/">
+  <img align="left" alt="Papa Ba GAYE's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### 📈 Statistiques GitHub
 [![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
