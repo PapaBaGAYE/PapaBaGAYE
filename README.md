@@ -1,35 +1,20 @@
 # Papa Ba GAYE 
-- 👋 Hi, I’m @PapaBaGAYE
-- 👀 I’m interested in Data Science and web development
-- 🌱 I’m currently learning Data Engineering and Artificial Intelligence 
-- 💞️ I’m looking to collaborate on Data Science project
-<!--- - 📫 How to reach me ... --->
+## 👋 Hi, I'm Papa Ba GAYE!
 
-<!---
-PapaBaGAYE/PapaBaGAYE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 About Me
+I'm passionate about Data Science and web development. Currently, I'm expanding my skills in Data Engineering and Artificial Intelligence.
 
-<a href="https://twitter.com/BraBeatz">
-  <img align="left" alt="Papa Ba GAYE | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/papa-ba-gaye-8970651a6/">
-  <img align="left" alt="Papa Ba GAYE's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### 🌱 What I'm Currently Doing
+I'm actively learning and exploring the fields of Data Engineering and Artificial Intelligence to enhance my knowledge and expertise.
 
-![](https://visitor-badge.glitch.me/badge?page_id=PapaBaGaye.PapaBaGaye)
+### 💞️ Collaboration
+I'm open to collaborating on Data Science projects and working with like-minded individuals who share the same passion for data-driven solutions.
 
-<!--
+### 📫 How to Reach Me
+You can connect with me on the following platforms:
 
-**Languages and Tools:**  
+[![Twitter](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)](https://twitter.com/BraBeatz)
+[![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/papa-ba-gaye-8970651a6/)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-
-📈 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham" alt="PapaBaGaye" />
--->
-
+### 📈 GitHub Stats
+[![Papa Ba GAYE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
