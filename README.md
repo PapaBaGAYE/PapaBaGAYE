@@ -1,20 +1,21 @@
 # Papa Ba GAYE 
-## 👋 Hi, I'm Papa Ba GAYE!
 
-### 👀 About Me
-I'm passionate about Data Science and web development. Currently, I'm expanding my skills in Data Engineering and Artificial Intelligence.
+## 👋 Salut, je suis Papa Ba GAYE !
 
-### 🌱 What I'm Currently Doing
-I'm actively learning and exploring the fields of Data Engineering and Artificial Intelligence to enhance my knowledge and expertise.
+### 👀 À propos de moi
+Je suis passionné par la science des données et le développement web. Actuellement, j'approfondis mes compétences en ingénierie des données et en intelligence artificielle.
+
+### 🌱 Mes apprentissages actuels
+Je me forme activement et explore les domaines de l'ingénierie des données et de l'intelligence artificielle pour enrichir mes connaissances et compétences.
 
 ### 💞️ Collaboration
-I'm open to collaborating on Data Science projects and working with like-minded individuals who share the same passion for data-driven solutions.
+Je suis ouvert à la collaboration sur des projets de science des données et à travailler avec des personnes partageant la même passion pour les solutions basées sur les données.
 
-### 📫 How to Reach Me
-You can connect with me on the following platforms:
+### 📫 Comment me contacter
+Vous pouvez me contacter sur les plateformes suivantes :
 
 [![Twitter](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)](https://twitter.com/BraBeatz)
 [![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/papa-ba-gaye-8970651a6/)
 
-### 📈 GitHub Stats
-[![Papa Ba GAYE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
+### 📈 Statistiques GitHub
+[![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
