@@ -21,5 +21,7 @@ Vous pouvez me contacter sur les plateformes suivantes :
   <img align="left" alt="Papa Ba GAYE's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br>
+
 ### 📈 Statistiques GitHub
 [![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
