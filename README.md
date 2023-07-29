@@ -11,14 +11,6 @@ Je me forme activement et explore les domaines de l'ingénierie des données et 
 ### 💞️ Collaboration
 Je suis ouvert à la collaboration sur des projets de science des données et à travailler avec des personnes partageant la même passion pour les solutions basées sur les données.
 
-### 📫 Comment me contacter
-<a href="https://twitter.com/BraBeatz">
-  <img align="left" alt="Papa Ba GAYE | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/papa-ba-gaye-8970651a6/">
-  <img align="left" alt="Papa Ba GAYE's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br>
 
 ### 📈 Statistiques GitHub
