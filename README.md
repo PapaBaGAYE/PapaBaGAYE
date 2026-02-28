@@ -30,8 +30,6 @@ Je conçois des solutions **IA / Data** (préparation des données → modélisa
 
 ---
 
----
-
 ## 🤝 Collaboration
 Je suis ouvert à :
 - Projets **IA** (ML, data, optimisation)
@@ -46,9 +44,6 @@ Je suis ouvert à :
 
 ## 📈 Statistiques GitHub
 [![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapaBaGaye&layout=compact&theme=gotham)](https://github.com/PapaBaGaye)
-
 ---
 
 ⭐️ Si tu apprécies mes projets, pense à **follow** et à **starrer** les repos !
