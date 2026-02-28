@@ -37,13 +37,12 @@ Je suis ouvert à :
 - Construction d’outils data-driven (ETL léger, analytics, reporting)
 
 📩 **Contact**
-- LinkedIn : *[(ajoute ton lien)](https://www.linkedin.com/in/papa-ba-gaye-8970651a6/)*
+- LinkedIn : *[(https://www.linkedin.com/in/papa-ba-gaye-8970651a6/)]*
 - Email : *pba.gaye@gmail.com*
 
 ---
 
-## 📈 Statistiques GitHub
-[![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
+### 📈 Statistiques GitHub [![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
 ---
 
 ⭐️ Si tu apprécies mes projets, pense à **follow** et à **starrer** les repos !
