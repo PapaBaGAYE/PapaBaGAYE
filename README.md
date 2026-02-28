@@ -10,7 +10,7 @@ Je conçois des solutions **IA / Data** (préparation des données → modélisa
 - 🧠 **IA / Machine Learning** : conception de modèles, expérimentation, amélioration des performances
 - 🗃️ **Data** : collecte, nettoyage, préparation, analyse, SQL
 - 🚀 **Mise en production** : APIs, intégration dans des applications, automatisation
-- 🌐 **Web** : back-end Symfony, interfaces dynamiques JS/Ajax
+- 🌐 **Web** : back-end Symfony, interfaces dynamiques Twig, JS/Ajax
 
 ---
 
@@ -18,7 +18,7 @@ Je conçois des solutions **IA / Data** (préparation des données → modélisa
 ### IA & Data
 - Python • Pandas • NumPy • Scikit-learn • Pytorch • etc
 - Feature Engineering • Évaluation de modèles • Optimisation
-- SQL • Data Cleaning • Visualisation *(optionnel)*
+- Modelisation • SQL • Data Cleaning • Visualisation 
 
 ### Web
 - **PHP • Symfony** (MVC, REST API, sécurité, CRUD)
@@ -30,7 +30,7 @@ Je conçois des solutions **IA / Data** (préparation des données → modélisa
 
 ---
 
-## 🤝 Collaboration
+### 🤝 Collaboration
 Je suis ouvert à :
 - Projets **IA** (ML, data, optimisation)
 - Projets **web** où l’IA apporte de la valeur (API, dashboard, automatisation)
