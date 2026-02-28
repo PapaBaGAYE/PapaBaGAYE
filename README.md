@@ -1,17 +1,54 @@
-# Papa Ba GAYE 
+# 👋 Salut, moi c’est Papa Ba GAYE
 
-## 👋 Salut, je suis Papa Ba GAYE !
+## 🤖 Ingénieur en Intelligence Artificielle | 🌐 Passionné de Développement Web
 
-### 👀 À propos de moi
-Je suis passionné par la science des données et le développement web. Actuellement, j'approfondis mes compétences en ingénierie des données et en intelligence artificielle.
+Je conçois des solutions **IA / Data** (préparation des données → modélisation → évaluation → déploiement) et j’aime les transformer en **applications web** utiles, notamment avec **PHP (Symfony)** et **JavaScript (Ajax)**.
 
-### 🌱 Mes apprentissages actuels
-Je me forme activement et explore les domaines de l'ingénierie des données et de l'intelligence artificielle pour enrichir mes connaissances et compétences.
+---
 
-### 💞️ Collaboration
-Je suis ouvert à la collaboration sur des projets de science des données et à travailler avec des personnes partageant la même passion pour les solutions basées sur les données.
+## 🎯 Ce que je fais
+- 🧠 **IA / Machine Learning** : conception de modèles, expérimentation, amélioration des performances
+- 🗃️ **Data** : collecte, nettoyage, préparation, analyse, SQL
+- 🚀 **Mise en production** : APIs, intégration dans des applications, automatisation
+- 🌐 **Web** : back-end Symfony, interfaces dynamiques JS/Ajax
 
-<br>
+---
 
-### 📈 Statistiques GitHub
+## 🧰 Compétences
+### IA & Data
+- Python • Pandas • NumPy • Scikit-learn • Pytorch • etc
+- Feature Engineering • Évaluation de modèles • Optimisation
+- SQL • Data Cleaning • Visualisation *(optionnel)*
+
+### Web
+- **PHP • Symfony** (MVC, REST API, sécurité, CRUD)
+- **JavaScript • Ajax** (requêtes async, interactions dynamiques)
+- Twig • Git
+
+### Additionnel
+- Docker • Linux • CI/CD • API Platform • MySQL/SQLServer
+
+---
+
+---
+
+## 🤝 Collaboration
+Je suis ouvert à :
+- Projets **IA** (ML, data, optimisation)
+- Projets **web** où l’IA apporte de la valeur (API, dashboard, automatisation)
+- Construction d’outils data-driven (ETL léger, analytics, reporting)
+
+📩 **Contact**
+- LinkedIn : *[(ajoute ton lien)](https://www.linkedin.com/in/papa-ba-gaye-8970651a6/)*
+- Email : *pba.gaye@gmail.com*
+
+---
+
+## 📈 Statistiques GitHub
 [![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapaBaGaye&layout=compact&theme=gotham)](https://github.com/PapaBaGaye)
+
+---
+
+⭐️ Si tu apprécies mes projets, pense à **follow** et à **starrer** les repos !
