@@ -42,7 +42,4 @@ Je suis ouvert à :
 
 ---
 
-### 📈 Statistiques GitHub [![Statistiques GitHub de Papa Ba GAYE](https://github-readme-stats.vercel.app/api?username=PapaBaGaye&show_icons=true&theme=gotham)](https://github.com/PapaBaGaye)
----
-
 ⭐️ Si tu apprécies mes projets, pense à **follow** et à **starrer** les repos !
